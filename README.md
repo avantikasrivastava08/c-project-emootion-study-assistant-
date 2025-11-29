@@ -1,4 +1,4 @@
-# c-project-emotion-study-assistant-
+# C PROJECT
 # Lifestyle Stability Meter 
 It is a multi user program.
  A C-based lifestyle tracking system that allows multiple users to log in.
